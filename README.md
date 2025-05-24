@@ -11,7 +11,7 @@ que simula um sistema de diagnóstico médico com interface gráfica em Python. 
 
    ```bash
    git clone https://KauaLessa/DIAGNOSIS-GPT
-   cd diagnosis-chatbot
+   cd DIAGNOSIS-GPT
    ```
 
 2. **(Opcional) Crie um ambiente virtual:**
@@ -24,7 +24,7 @@ que simula um sistema de diagnóstico médico com interface gráfica em Python. 
 3. **Execute o chatbot:**
 
    ```bash
-   python chatbot.py
+   python main.py
    ```
 
 Certifique-se de estar em um ambiente com suporte a interface gráfica (GUI).
