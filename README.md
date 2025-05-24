@@ -5,6 +5,13 @@ que simula um sistema de diagnóstico médico com interface gráfica em Python. 
 
 ---
 
+## EQUIPE:
+1. Kauã Lessa Lima dos Santos
+2. Luís Felipe Barros Pacheco
+3. Diêgo de Araujo Correia
+
+---
+
 ## Como clonar e executar
 
 1. **Clone o repositório:**
